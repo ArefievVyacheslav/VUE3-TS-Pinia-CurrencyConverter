@@ -23,7 +23,7 @@ SPA для конвертации валют на Vue 3 с использова�
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ArefievVyacheslav/VUE3-TS-Pinia-CurrencyConverter
 ```
 
 2. Установите зависимости:
